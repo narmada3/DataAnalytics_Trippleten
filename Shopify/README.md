@@ -1,27 +1,26 @@
-# File Title: ShopifyPBI
+# File Title: Shopify
 
 This was the 6th project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Power BI. The purpose was to review the landscape of apps on the Shopify platform, using data scraped from publicly available Shopify websites, and to figure out what key factors play into the success of a Shopify app.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/ShopifyPBI.png" alt="First Dashboard">](https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10)
+[<img src="https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/Images/ShopifyPBI.png" alt="First Dashboard">](https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10)
 
-Loom Video Overview can be found <a href='https://www.loom.com/share/88359c245ed3425aa004cd2e5a1be3b3?sid=6c7a8349-16a9-47d6-a641-b0d51febcb10' target=_blank><u>here</u>.</a>
 Raw Data can be found <a href='https://docs.google.com/spreadsheets/d/1H-Kw1Li9bvq7rvCDOqgdjawhHeRl8SlU/edit?usp=drive_link&ouid=101031187502320177888&rtpof=true&sd=true'><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 2 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Shopify/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 3 | [Shopify Summary.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Shopify/Shopify%20Summary.pdf) | A PDF file with Data Model, DAX Calculated Fields, and Dashboards. |
+| 2 | [Requirements.txt](https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/Shopify/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 3 | [Shopify Summary.pdf](https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/Shopify/Shopify%20Summary.pdf) | A PDF file with Data Model, DAX Calculated Fields, and Dashboards. |
 
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| [Description](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Shopify#description) | Describes the final product's purpose, software, format, and included visuals. |
-| [Process](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Shopify#process) | Describes the process, including tools or tech used. |
-| [Data](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Shopify#data) | Describes the data source, including files, tables, and fields. |
-| [Assumptions](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Shopify#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| [Findings](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Shopify#findings) | Insights learned from the data analysis. |
+| [Description](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/Shopify#description) | Describes the final product's purpose, software, format, and included visuals. |
+| [Process](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/Shopify#process) | Describes the process, including tools or tech used. |
+| [Data](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/Shopify#data) | Describes the data source, including files, tables, and fields. |
+| [Assumptions](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/Shopify#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| [Findings](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/Shopify#findings) | Insights learned from the data analysis. |
 
 #### Description:
 - 3 page Power BI Dashboard
