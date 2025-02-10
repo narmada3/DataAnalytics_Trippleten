@@ -2,7 +2,7 @@
 
 This was my Final project for the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned throughout the TripleTen Program. The purpose was to complete the Zomato onboarding project to showcase analytical skills to the mock company.
 
-<img src="https://github.com/narmada3/DataAnalytics_Trippleten\Zomato\image\zomatodashbord.png" alt="First Dashboard">
+<img src="https://github.com/narmada3/DataAnalytics_Trippleten\/blob/main/Zomato/image/zomatodashbord.png" alt="First Dashboard">
 
 #### Description:
 - This was a Zomato sales Analysis Analysis.
