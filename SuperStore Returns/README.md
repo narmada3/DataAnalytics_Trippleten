@@ -2,28 +2,27 @@
 
 This was the fifth project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Tableau Dashboards and Story Telling. The purpose was to prepare an analysis for the CEO of Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/SuperStoreReturns.png" alt="Dashboard Sheet">](https://public.tableau.com/views/SuperStoreReturns_17275522394170/Presentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[<img src="https://github.com/Narmada3/DataAnalytics_Trippleten/blob/main/Images/SuperStoreReturns2.png" alt="Dashboard Sheet">](https://public.tableau.com/views/SuperStoreReturns_17275522394170/Presentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-Loom Video Overview can be found <a href='https://www.loom.com/share/74d93fb0067c4649b51ceb65fc0f221c?sid=57e2a8a3-db62-4f12-af46-50030f1b1dd2' target=_blank><u>here</u>.</a>
 Tableau Public Share Link: <a href='https://public.tableau.com/views/SuperStoreReturns_17275522394170/Presentation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [DataSet - SuperStore.xls](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Returns/DataSet%20-%20SuperStore.xls) | The original data file provided by TripleTen that was used in this projects analysis. |
+| 1 | [DataSet - SuperStore.xls](https://github.com/Narmada3/DataAnalytics_Trippleten/blob/main/SuperStore%20Returns/DataSet%20-%20SuperStore.xls) | The original data file provided by TripleTen that was used in this projects analysis. |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Returns/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 4 | [Reviewer Grade.png](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Returns/Reviewer%20Grade.png) | This is the comments left by my project reviewer. |
+| 3 | [Requirements.txt](https://github.com/Narmada3/DataAnalytics_Trippleten/blob/main/SuperStore%20Returns/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 4 | [Reviewer Grade.png](https://github.com/Narmada3/DataAnalytics_Trippleten/blob/main/SuperStore%20Returns/Reviewer%20Grade.png) | This is the comments left by my project reviewer. |
 
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| [Description](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/SuperStore%20Returns#description) | Describes the final product's purpose, software, format, and included visuals. |
-| [Process](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/SuperStore%20Returns#process) | Describes the process, including tools or tech used. |
-| [Data](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/SuperStore%20Returns#data) | Describes the data source, including files, tables, and fields. |
-| [Assumptions](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/SuperStore%20Returns#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| [Findings](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/SuperStore%20Returns#findings) | Insights learned from the data analysis. |
-| [Recommendations](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/SuperStore%20Returns/README.md#recommendations) | Recommended direction for the stakeholders based on the final analysis. |
+| [Description](https://github.com/Narmada3/DataAnalytics_Trippleten/tree/main/SuperStore%20Returns#description) | Describes the final product's purpose, software, format, and included visuals. |
+| [Process](https://github.com/Narmada3/DataAnalytics_Trippleten/tree/main/SuperStore%20Returns#process) | Describes the process, including tools or tech used. |
+| [Data](https://github.com/Narmada3/DataAnalytics_Trippleten/tree/main/SuperStore%20Returns#data) | Describes the data source, including files, tables, and fields. |
+| [Assumptions](https://github.com/Narmada3/DataAnalytics_Trippleten/tree/main/SuperStore%20Returns#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| [Findings](https://github.com/Narmada3/DataAnalytics_Trippleten/tree/main/SuperStore%20Returns#findings) | Insights learned from the data analysis. |
+| [Recommendations](https://github.com/Narmada3/DataAnalytics_Trippleten/blob/main/SuperStore%20Returns/README.md#recommendations) | Recommended direction for the stakeholders based on the final analysis. |
 
 #### Description:
 - 7 Tableau Visualizations, 1 Dashboard, and a 10-page Story Presentation
