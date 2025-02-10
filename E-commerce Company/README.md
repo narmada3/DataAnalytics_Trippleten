@@ -2,7 +2,7 @@
 
 This was the third project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned in Business Analytics. The purpose was to analyze the companies' raw transaction logs and turn the event logs into business metrics.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/E-Commerce.png" alt="First Sheet of Project**">](https://www.loom.com/share/2e58fde1699848d2b12a2e3284e7867e?sid=42667402-82d2-4f31-82a0-baf41ac16ce7)
+[<img src="https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/Images/E-Commerce.png" alt="First Sheet of Project**">](https://www.loom.com/share/2e58fde1699848d2b12a2e3284e7867e?sid=42667402-82d2-4f31-82a0-baf41ac16ce7)
 
 Loom Video Overview can be found <a href='https://www.loom.com/share/2e58fde1699848d2b12a2e3284e7867e?sid=0999d9f0-df9f-4a30-9665-ffb61487a7da' target=_blank><u>HERE</u>.</a>
 Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1vkoLxZqsaqfEHdvRRf5ifXiv42zfPA01v6DPhiN9O_k/edit?usp=sharing' target=_blank><u>here</u>.</a>
@@ -11,20 +11,20 @@ Raw Data Google Speadsheet can be found <a href='https://docs.google.com/spreads
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [E-Commerce_Business_Analysis .pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/E-commerce%20Company/E-Commerce_Business_Analysis%20.pdf) | The completed project in a downloadable pdf file provided by. |
+| 1 | [E-Commerce_Business_Analysis .pdf](https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/E-commerce%20Company/E-Commerce_Business_Analysis%20.pdf) | The completed project in a downloadable pdf file provided by. |
 | 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 3 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/E-commerce%20Company/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 4 | [ReviewerGrade3.png](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/E-commerce%20Company/ReviewerGrade3.png) | This is the comments left by my project reviewer, number corresponds with project number. |
+| 3 | [Requirements.txt](https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/E-commerce%20Company/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 4 | [ReviewerGrade3.png](https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/E-commerce%20Company/ReviewerGrade3.png) | This is the comments left by my project reviewer, number corresponds with project number. |
 
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| [Description](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#description) | Describes the final product's purpose, software, format, and included visuals. |
-| [Process](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#process) | A general outline of how this project formed from start to finish. |
-| [Data](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#data) | Describes the source of data, including files, tables, and fields. |
-| [Assumptions](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| [Findings](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#findings) | Insights learned from the data analysis. |
-| [Recommendations](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/E-commerce%20Company#recommendations) | Recommended direction for the stakeholders based on the final analysis. |
+| [Description](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/E-commerce%20Company#description) | Describes the final product's purpose, software, format, and included visuals. |
+| [Process](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/E-commerce%20Company#process) | A general outline of how this project formed from start to finish. |
+| [Data](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/E-commerce%20Company#data) | Describes the source of data, including files, tables, and fields. |
+| [Assumptions](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/E-commerce%20Company#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| [Findings](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/E-commerce%20Company#findings) | Insights learned from the data analysis. |
+| [Recommendations](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/E-commerce%20Company#recommendations) | Recommended direction for the stakeholders based on the final analysis. |
 
 #### Description:
 - 8 page spreadsheet
