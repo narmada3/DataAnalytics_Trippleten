@@ -8,30 +8,26 @@ Data Analysis & Exploration (understanding and manipulating data)<br>
 Data Visualization (creating clear and informative visuals)<br>
 Communication & Teamwork (conveying insights and collaborating effectively)
 
-Reworked and Updated Tableau Public <a href='https://public.tableau.com/views/AnimationMovies_17352673342840/AnimatedMoviesBringingtheWorldTogether?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a><br>
-Original YouTube LIVE recording of entire competition with host Q&A can be found <a href='https://www.youtube.com/live/rWTYgq_3ER4?si=fNs4AeeffGvZo9k8' target=_blank><u>here</u>.</a><br>
-Original Team Chart-cuteri's recorded presentation can be found <a href='https://drive.google.com/file/d/1hCgHvyS8QK4xuK0Vba_DeCW6dX-BBXlA/view?usp=drive_link' target=_blank><u>here</u>.</a> 
-
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Animation Movies.pdf](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/Animation%20Movies.pdf) | The PDF of the Tableau Workbook including Visualizations, Dashboards, and Story. |
-| 2 | [AnimationMovies.V2.twbx](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/AnimationMovies.V2.twbx) | The downloadable Tableau Workbook including interactive Visualizations, Dashboards, and Story. |
-| 3 | [Animation_Movies.csv](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/Animation_Movies.csv) | Original spreadsheet file in csv format provided at the start of the competition. |
-| 4 | [March_Code_Pudding_Data_Cleaning_..ipynb](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/March_Code_Pudding_Data_Cleaning_.ipynb) | Jupiter Notebook file using Python for Data cleaning and EDA performed at the start of the analysis. |
+| 1 | [Animation Movies.pdf](https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/Animation%20Movies/Animation%20Movies.pdf) | The PDF of the Tableau Workbook including Visualizations, Dashboards, and Story. |
+| 2 | [AnimationMovies.V2.twbx](https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/Animation%20Movies/AnimationMovies.V2.twbx) | The downloadable Tableau Workbook including interactive Visualizations, Dashboards, and Story. |
+| 3 | [Animation_Movies.csv](https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/Animation%20Movies/Animation_Movies.csv) | Original spreadsheet file in csv format provided at the start of the competition. |
+| 4 | [March_Code_Pudding_Data_Cleaning_..ipynb](https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/Animation%20Movies/March_Code_Pudding_Data_Cleaning_.ipynb) | Jupiter Notebook file using Python for Data cleaning and EDA performed at the start of the analysis. |
 | 5 | README.md | This current page, with all relevant information about the project, just past the Table of contents. |
-| 6 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen and The Pudding. |
+| 6 | [Requirements.txt](https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/Animation%20Movies/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen and The Pudding. |
 
 ### Table of Contents for README
 | Section Title | Description |
 | ----------- |----------- |
-| [Description](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#description) | Describes the final product's purpose, software, format, and included visuals. |
-| [Process](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#process) | Describes the process, including tools or tech used. |
-| [Data](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#data) | Describes the data source, including files, tables, and fields. |
-| [Assumptions](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
-| [Findings](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#findings) | Insights learned from the data analysis. |
-| [Results](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Animation%20Movies#results) | What was gained from the competition |
+| [Description](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/Animation%20Movies#description) | Describes the final product's purpose, software, format, and included visuals. |
+| [Process](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/Animation%20Movies#process) | Describes the process, including tools or tech used. |
+| [Data](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/Animation%20Movies#data) | Describes the data source, including files, tables, and fields. |
+| [Assumptions](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/Animation%20Movies#assumptions) | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
+| [Findings](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/Animation%20Movies#findings) | Insights learned from the data analysis. |
+| [Results](https://github.com/narmada3/DataAnalytics_Trippleten/tree/main/Animation%20Movies#results) | What was gained from the competition |
 
 #### Description:
 - 1 Tableau Story made from 6 Dashboards and 12 visuals
