@@ -4,8 +4,7 @@ This was the third project that I worked on in the TripleTen Business Intelligen
 
 [<img src="https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/Images/E-Commerce.png" alt="First Sheet of Project**">](https://www.loom.com/share/2e58fde1699848d2b12a2e3284e7867e?sid=42667402-82d2-4f31-82a0-baf41ac16ce7)
 
-target=_blank><u>HERE</u>.</a>
-Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1vkoLxZqsaqfEHdvRRf5ifXiv42zfPA01v6DPhiN9O_k/edit?usp=sharing' 
+
 Raw Data Google Speadsheet can be found <a href='https://docs.google.com/spreadsheets/d/1qWRY5svKGkJRyYNv7K4XvEGm9FpcoJhH5G0p4Qbq0V0/edit?usp=sharing' target=_blank><u>here</u>.</a>
 
 ### Table of Contents for Repository Artifacts
