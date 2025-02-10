@@ -1,10 +1,10 @@
-# File Title: SuperStore Return Analysis
+# File Title: SuperStore Return nalysis
 
 This was the fourth project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Tableau Visualization. The purpose was to consultant the company by reviewing the store’s operations and increase its profitability to avoid bankruptcy.
 
 [<img src="https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/Images/SuperStoreConsult.png" alt="First Visulization Sheet">](https://www.loom.com/share/ce4f7d6c63a4489d9f6d8f430ba3f3d9?sid=55211fb8-68b2-4489-ab4b-e9010cad830b)
 
-Tableau Public Share Link: <a href='https://public.tableau.com/views/superstorereturns_17303900232980/ReturnAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
+Tableau Public Share Link: <a href='https://public.tableau.com/views/SuperStoreConsult/ProfitLossbySubcategory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a> 
 
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
