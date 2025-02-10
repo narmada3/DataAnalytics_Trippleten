@@ -11,7 +11,7 @@ Projects Google Speadsheet can be found <a href='https://docs.google.com/spreads
 | 2 | [Project Rubric V2.pdf](https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/Manhattan%20Vacation%20Rental%20Market%20Project/Project%20Rubric%20V2.pdf) | A .PDF file with the provided template for grading. |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/Manhattan%20Vacation%20Rental%20Market%20Project/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
-| 5 | [ReviewerGrade1.png](https://github.com/narmada3/DataAnalytics_Trippleten/blob/main/Manhattan%20Vacation%20Rental%20Market%20Project/ReviewerGrade1.png) | This is a .png file showing the comments left by my project reviewer. |
+
 
 ### Table of Contents for README
 | Section Title | Description |
